@@ -10,7 +10,7 @@ Você já passou por isso: seus leads só operam em **live**, deixando sua corre
 
 **Dev Brokers** é a plataforma de trading automatizado **100% integrada com sua corretora Mybroker**. 
 
-✅ **Integração Completa**: Conecte-se diretamente com sua corretora Mybroker através de API - sem intermediários, sem complicações.
+✅ **Integração Completa**: Conecte-se diretamente com3 sua corretora Mybroker através de API - sem intermediários, sem complicações.
 
 ✅ **Produto Validado**: Mais de **9 corretoras Mybroker** já utilizam e confiam na nossa plataforma. Não é teoria, é resultado comprovado.
 
